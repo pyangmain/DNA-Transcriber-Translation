@@ -1,7 +1,7 @@
 /**
  * This class models a DNA sequence
- * 
- * @author Peter
+ *
+ * @author Peter, made this back in wisconsin madison cs 300, i miss that place!
  *
  */
 public class DNA {
